@@ -1,0 +1,699 @@
+{
+  "cities": [
+    {
+      "id": "2",
+      "city": "Agartala"
+    },
+    {
+      "id": "3",
+      "city": "Agra"
+    },
+    {
+      "id": "1",
+      "city": "Ahmedabad"
+    },
+    {
+      "id": "4",
+      "city": "Ahmednagar"
+    },
+    {
+      "id": "5",
+      "city": "Aizawal"
+    },
+    {
+      "id": "6",
+      "city": "Ajmer"
+    },
+    {
+      "id": "7",
+      "city": "Aligarh"
+    },
+    {
+      "id": "8",
+      "city": "Allahabad"
+    },
+    {
+      "id": "9",
+      "city": "Ambala"
+    },
+    {
+      "id": "10",
+      "city": "Amritsar"
+    },
+    {
+      "id": "11",
+      "city": "Anand"
+    },
+    {
+      "id": "12",
+      "city": "Anantapur"
+    },
+    {
+      "id": "13",
+      "city": "Ankleshwar"
+    },
+    {
+      "id": "14",
+      "city": "Asansol"
+    },
+    {
+      "id": "15",
+      "city": "Assam"
+    },
+    {
+      "id": "16",
+      "city": "Aurangabad"
+    },
+    {
+      "id": "21",
+      "city": "Bangalore"
+    },
+    {
+      "id": "17",
+      "city": "Bareilly"
+    },
+    {
+      "id": "18",
+      "city": "Bathinda"
+    },
+    {
+      "id": "19",
+      "city": "Belgaum"
+    },
+    {
+      "id": "20",
+      "city": "Bellary"
+    },
+    {
+      "id": "22",
+      "city": "Bhagalpur"
+    },
+    {
+      "id": "23",
+      "city": "Bharuch"
+    },
+    {
+      "id": "24",
+      "city": "Bhavnagar"
+    },
+    {
+      "id": "25",
+      "city": "Bhillai"
+    },
+    {
+      "id": "26",
+      "city": "Bhopal"
+    },
+    {
+      "id": "27",
+      "city": "Bhubaneshwar"
+    },
+    {
+      "id": "28",
+      "city": "Bhuj"
+    },
+    {
+      "id": "29",
+      "city": "Bidar"
+    },
+    {
+      "id": "30",
+      "city": "Bilaspur"
+    },
+    {
+      "id": "31",
+      "city": "Bokaro"
+    },
+    {
+      "id": "32",
+      "city": "Calicut"
+    },
+    {
+      "id": "33",
+      "city": "Chandigarh"
+    },
+    {
+      "id": "34",
+      "city": "Chennai"
+    },
+    {
+      "id": "35",
+      "city": "Chhattisgarh"
+    },
+    {
+      "id": "36",
+      "city": "Cochin"
+    },
+    {
+      "id": "37",
+      "city": "Coimbatore"
+    },
+    {
+      "id": "38",
+      "city": "Cuddalore"
+    },
+    {
+      "id": "39",
+      "city": "Cuttak"
+    },
+    {
+      "id": "40",
+      "city": "Dadra&NagarHaveli-Silvassa"
+    },
+    {
+      "id": "41",
+      "city": "Dalhousie"
+    },
+    {
+      "id": "42",
+      "city": "Daman&Diu"
+    },
+    {
+      "id": "43",
+      "city": "Dehradun"
+    },
+    {
+      "id": "44",
+      "city": "Delhi"
+    },
+    {
+      "id": "45",
+      "city": "Dhanbad"
+    },
+    {
+      "id": "46",
+      "city": "Dharmasala"
+    },
+    {
+      "id": "47",
+      "city": "Dharwad"
+    },
+    {
+      "id": "48",
+      "city": "Dimapur"
+    },
+    {
+      "id": "49",
+      "city": "Durgapur"
+    },
+    {
+      "id": "50",
+      "city": "Ernakulam"
+    },
+    {
+      "id": "51",
+      "city": "Erode"
+    },
+    {
+      "id": "52",
+      "city": "Faizabad"
+    },
+    {
+      "id": "53",
+      "city": "Faridabad"
+    },
+    {
+      "id": "54",
+      "city": "Gandhinagar"
+    },
+    {
+      "id": "55",
+      "city": "Gangtok"
+    },
+    {
+      "id": "56",
+      "city": "Ghaziabad"
+    },
+    {
+      "id": "57",
+      "city": "Gir"
+    },
+    {
+      "id": "58",
+      "city": "Goa"
+    },
+    {
+      "id": "59",
+      "city": "Gorakhpur"
+    },
+    {
+      "id": "60",
+      "city": "Gulbarga"
+    },
+    {
+      "id": "61",
+      "city": "Guntakal"
+    },
+    {
+      "id": "62",
+      "city": "Guntur"
+    },
+    {
+      "id": "63",
+      "city": "Gurgaon"
+    },
+    {
+      "id": "64",
+      "city": "Guwahati"
+    },
+    {
+      "id": "65",
+      "city": "Gwalior"
+    },
+    {
+      "id": "66",
+      "city": "Haldia"
+    },
+    {
+      "id": "67",
+      "city": "Hisar"
+    },
+    {
+      "id": "68",
+      "city": "Hosur"
+    },
+    {
+      "id": "69",
+      "city": "Hubli"
+    },
+    {
+      "id": "70",
+      "city": "Hyderabad"
+    },
+    {
+      "id": "71",
+      "city": "Imphal"
+    },
+    {
+      "id": "72",
+      "city": "Indore"
+    },
+    {
+      "id": "73",
+      "city": "Itanagar"
+    },
+    {
+      "id": "74",
+      "city": "Jabalpur"
+    },
+    {
+      "id": "75",
+      "city": "Jaipur"
+    },
+    {
+      "id": "76",
+      "city": "Jaisalmer"
+    },
+    {
+      "id": "77",
+      "city": "Jalandhar"
+    },
+    {
+      "id": "78",
+      "city": "Jalgaon"
+    },
+    {
+      "id": "79",
+      "city": "Jammu"
+    },
+    {
+      "id": "80",
+      "city": "Jamnagar"
+    },
+    {
+      "id": "81",
+      "city": "Jamshedpur"
+    },
+    {
+      "id": "82",
+      "city": "Jodhpur"
+    },
+    {
+      "id": "83",
+      "city": "kakinada"
+    },
+    {
+      "id": "84",
+      "city": "Kandla"
+    },
+    {
+      "id": "85",
+      "city": "Kanpur"
+    },
+    {
+      "id": "86",
+      "city": "Karnal"
+    },
+    {
+      "id": "87",
+      "city": "Karnataka"
+    },
+    {
+      "id": "88",
+      "city": "Kharagpur"
+    },
+    {
+      "id": "89",
+      "city": "Kochi"
+    },
+    {
+      "id": "90",
+      "city": "Kolar"
+    },
+    {
+      "id": "91",
+      "city": "Kolhapur"
+    },
+    {
+      "id": "92",
+      "city": "Kolkatta"
+    },
+    {
+      "id": "93",
+      "city": "Kollam"
+    },
+    {
+      "id": "94",
+      "city": "Kota"
+    },
+    {
+      "id": "95",
+      "city": "Kottayam"
+    },
+    {
+      "id": "96",
+      "city": "Kozhikode"
+    },
+    {
+      "id": "97",
+      "city": "Kulu"
+    },
+    {
+      "id": "99",
+      "city": "kurnool"
+    },
+    {
+      "id": "100",
+      "city": "Kurukshetra"
+    },
+    {
+      "id": "101",
+      "city": "Lucknow"
+    },
+    {
+      "id": "102",
+      "city": "Ludhiana"
+    },
+    {
+      "id": "103",
+      "city": "Madurai"
+    },
+    {
+      "id": "98",
+      "city": "Manali"
+    },
+    {
+      "id": "104",
+      "city": "Mangalore"
+    },
+    {
+      "id": "105",
+      "city": "Manipur"
+    },
+    {
+      "id": "106",
+      "city": "Mathura"
+    },
+    {
+      "id": "107",
+      "city": "Meerut"
+    },
+    {
+      "id": "108",
+      "city": "Meghalaya"
+    },
+    {
+      "id": "109",
+      "city": "Mizoram"
+    },
+    {
+      "id": "110",
+      "city": "Mohali"
+    },
+    {
+      "id": "111",
+      "city": "Moradabad"
+    },
+    {
+      "id": "112",
+      "city": "Mumbai"
+    },
+    {
+      "id": "113",
+      "city": "Mysore"
+    },
+    {
+      "id": "114",
+      "city": "Nagaland"
+    },
+    {
+      "id": "115",
+      "city": "Nagerkoil"
+    },
+    {
+      "id": "116",
+      "city": "Nagpur"
+    },
+    {
+      "id": "117",
+      "city": "Nasik"
+    },
+    {
+      "id": "118",
+      "city": "NaviMumbai"
+    },
+    {
+      "id": "119",
+      "city": "Nellore"
+    },
+    {
+      "id": "120",
+      "city": "Nizamabad"
+    },
+    {
+      "id": "121",
+      "city": "Noida"
+    },
+    {
+      "id": "122",
+      "city": "Noida"
+    },
+    {
+      "id": "123",
+      "city": "Ooty"
+    },
+    {
+      "id": "124",
+      "city": "Orissa"
+    },
+    {
+      "id": "125",
+      "city": "Palakkad"
+    },
+    {
+      "id": "126",
+      "city": "Palghat"
+    },
+    {
+      "id": "128",
+      "city": "Panaji"
+    },
+    {
+      "id": "127",
+      "city": "Panipat"
+    },
+    {
+      "id": "129",
+      "city": "Paradeep"
+    },
+    {
+      "id": "130",
+      "city": "Pathankot"
+    },
+    {
+      "id": "131",
+      "city": "Patiala"
+    },
+    {
+      "id": "132",
+      "city": "Patna"
+    },
+    {
+      "id": "133",
+      "city": "Pondichery"
+    },
+    {
+      "id": "134",
+      "city": "Porbandar"
+    },
+    {
+      "id": "135",
+      "city": "Pune"
+    },
+    {
+      "id": "136",
+      "city": "Puri"
+    },
+    {
+      "id": "137",
+      "city": "Raipur"
+    },
+    {
+      "id": "138",
+      "city": "Rajahmundry"
+    },
+    {
+      "id": "139",
+      "city": "Rajasthan"
+    },
+    {
+      "id": "140",
+      "city": "Rajkot"
+    },
+    {
+      "id": "141",
+      "city": "Ranchi"
+    },
+    {
+      "id": "142",
+      "city": "Rohtak"
+    },
+    {
+      "id": "143",
+      "city": "Roorkee"
+    },
+    {
+      "id": "144",
+      "city": "Rourkela"
+    },
+    {
+      "id": "145",
+      "city": "Salem"
+    },
+    {
+      "id": "146",
+      "city": "Shillong"
+    },
+    {
+      "id": "147",
+      "city": "Shimla"
+    },
+    {
+      "id": "148",
+      "city": "Sikkim"
+    },
+    {
+      "id": "149",
+      "city": "Silchar"
+    },
+    {
+      "id": "150",
+      "city": "Siliguri"
+    },
+    {
+      "id": "151",
+      "city": "Solapur"
+    },
+    {
+      "id": "152",
+      "city": "Srinagar"
+    },
+    {
+      "id": "153",
+      "city": "Surat"
+    },
+    {
+      "id": "154",
+      "city": "TamilNadu"
+    },
+    {
+      "id": "155",
+      "city": "Thanjavur"
+    },
+    {
+      "id": "156",
+      "city": "Thrissur"
+    },
+    {
+      "id": "157",
+      "city": "Tirunalveli"
+    },
+    {
+      "id": "158",
+      "city": "Tirupati"
+    },
+    {
+      "id": "159",
+      "city": "Trichy"
+    },
+    {
+      "id": "160",
+      "city": "Tripura"
+    },
+    {
+      "id": "161",
+      "city": "Trivandrum"
+    },
+    {
+      "id": "162",
+      "city": "Tuticorin"
+    },
+    {
+      "id": "163",
+      "city": "Udaipur"
+    },
+    {
+      "id": "164",
+      "city": "Ujjain"
+    },
+    {
+      "id": "165",
+      "city": "Vadodara"
+    },
+    {
+      "id": "166",
+      "city": "Valsad"
+    },
+    {
+      "id": "167",
+      "city": "Vapi"
+    },
+    {
+      "id": "168",
+      "city": "Varanasi"
+    },
+    {
+      "id": "169",
+      "city": "VascoDaGama"
+    },
+    {
+      "id": "170",
+      "city": "Vellore"
+    },
+    {
+      "id": "171",
+      "city": "Vijayawada"
+    },
+    {
+      "id": "172",
+      "city": "Visakhapatnam"
+    },
+    {
+      "id": "173",
+      "city": "Warangal"
+    }
+  ],
+  "number": 173,
+  "status": 200,
+  "message": "All cities"
+}

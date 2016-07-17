@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="fontStyle" format="enum">
+        <enum name="regular" value="0" />
+        <enum name="bold" value="1" />
+        <enum name="medium" value="2" />
+        <enum name="thin" value="3" />
+        <enum name="light" value="4" />
+    </attr>
+
+    <declare-styleable name="TypefacedTextView">
+        <attr name="fontStyle" />
+    </declare-styleable>
+    <declare-styleable name="TypefacedButton">
+        <attr name="fontStyle" />
+    </declare-styleable>
+    <declare-styleable name="TypefacedAutoCompleteTextView">
+        <attr name="fontStyle" />
+    </declare-styleable>
+    <declare-styleable name="TypefacedEditText">
+        <attr name="fontStyle" />
+    </declare-styleable>
+    <declare-styleable name="TypefacedCheckBox">
+        <attr name="fontStyle" />
+    </declare-styleable>
+
+
+</resources>
