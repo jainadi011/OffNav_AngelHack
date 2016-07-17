@@ -4,4 +4,4 @@ Users tap a button that sends a text message with their location . Location can 
 
 All this works because the GPS technology can run whether or not there’s an active data connection
 
-file:///home/aditya/Desktop/Screenshot_2016-07-17-06-32-58-925.jpeg
+![Alt text](https://github.com/jainadi011/OffNav_AngelHack/blob/master/Screenshot_2016-07-17-06-32-58-925.jpeg "Optional Title")
